@@ -51,6 +51,7 @@ export const logoutUser = () => async (dispatch) => {
                 'Content-Type': 'application/json',
             },
         });
+        document.cookie = `token=; expires=${new Date(Date.now())} path=/ httpOnly=false`;
         window.location.href = '/';
         dispatch({ type: 'Logout' });
 
