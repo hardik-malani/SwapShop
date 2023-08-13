@@ -1,0 +1,1 @@
+export const server = 'https://swapshop-backend-oqlkr57tja-el.a.run.app';
