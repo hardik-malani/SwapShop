@@ -5,7 +5,7 @@
   </p>
 </div>
 
-SwapShow is an innovative platform that redefines the approach to sustainable living by facilitating the exchange of surplus items within local communities.
+SwapShop is an innovative platform that redefines the approach to sustainable living by facilitating the exchange of surplus items within local communities.
 
 The website begins with a login prompt followed by the main feed page where all the recently added items ( in the local vicinity ) are listed and anyone in need of those item can request them from their owner and they could share the item. Additionally , A user could also choose to donate a surplus item or demand any item that they might need.
 
@@ -23,7 +23,7 @@ This collaborative exchange not only reduces waste but also fosters a sense of u
 # How we built it
 * **Frontend:** Frontend of SwapShop is responsible for providing users with an intuitive and interactive user interface to access the website features.
 
-* **Backend:** The backend of SwapShow handles the server-side operations and serves as the intermediary between the frontend and other external services. It manages user authentication, handles data storage and retrieval and communication with other components.
+* **Backend:** The backend of SwapShop handles the server-side operations and serves as the intermediary between the frontend and other external services. It manages user authentication, handles data storage and retrieval and communication with other components.
 
   # Team Member
 * Hardik Malani
