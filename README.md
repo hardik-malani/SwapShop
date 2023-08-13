@@ -29,7 +29,7 @@ This collaborative exchange not only reduces waste but also fosters a sense of u
 * Hardik Malani
 * Shubham Aggarwal
 
-  # Acknowledgements
+  # Acknowledgments
 
 We are very grateful for these organizations for their contributions to our dapp:
-* KatyYouthHacks for giving us this opportunity with their innocative platform to showcase our idea and project.
+* KatyYouthHacks for giving us this opportunity with their innovative platform to showcase our idea and project.
