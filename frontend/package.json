@@ -34,5 +34,5 @@
     "tailwindcss": "^3.3.3",
     "vite": "^4.4.5"
   },
-  "proxy": "https://swapshop-backend-oqlkr57tja-el.a.run.app"
+  "proxy": "https://swapshop-oqlkr57tja-uc.a.run.app"
 }
