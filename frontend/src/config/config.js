@@ -1,1 +1,1 @@
-export const server = 'https://swapshop-backend-oqlkr57tja-el.a.run.app';
+export const server = 'https://swapshop-oqlkr57tja-uc.a.run.app';
